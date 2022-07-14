@@ -17,17 +17,15 @@
 
 </div>
 
-<!--
-**chino10030/chino10030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+ 🤳About Me :
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Python, Laravel, Blockchain 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about PHP, MYSQL,JS,C++,VS.NET
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about PHP, MYSQL, JS, C++, VS.NET
+- 📫 How to reach me: chino10030@yahoo.com
+
+
