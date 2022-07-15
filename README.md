@@ -25,7 +25,34 @@
 - 🌱 I’m currently learning Python, Laravel, Blockchain 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about PHP, MYSQL, JS, C++, VS.NET
+- 💬 Ask me about PHP, MYSQL, JS, C++, MS.NET
 - 📫 How to reach me: chino10030@yahoo.com
+
+<div aling="left">
+<h3>🛠 Languages and Tools:</h3>
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="MYSQL" alt="MYSQL" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="NET" alt="NET" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS3" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title="JQ" alt="JQ" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/devicon/devicon-original.svg" title="DEV" alt="DEV" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GIT" alt="GIT" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="LIN" alt="LIN" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="APA" alt="APA" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="rasp" alt="rasp" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="COM" alt="COM" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="SSH" alt="SSH" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-plain.svg" title="PUT" alt="PUT" width="40" height="40" />&nbsp;
+<img src="https://www.linuxadictos.com/wp-content/uploads/mariadb.jpg" title="MAR" alt="MAR" width="65" height="40" />&nbsp;
+</div>
+</div>
+
+
+
+
+
 
 
