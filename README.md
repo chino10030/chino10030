@@ -27,7 +27,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about PHP, MYSQL, JS, C++, MS.NET
 - 📫 How to reach me: chino10030@yahoo.com
-
+---
 <div aling="left">
 <h3>🛠 Languages and Tools:</h3>
 <div>
@@ -50,7 +50,11 @@
 </div>
 </div>
 
+---
 
+### 📊My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chino10030)](https://git.io/streak-stats)
 
 
 
