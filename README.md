@@ -18,7 +18,6 @@
 </div>
 
 
-
  🤳About Me :
 
 - 🔭 I’m currently working on PHP, VS.NET, MySql
