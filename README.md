@@ -21,10 +21,10 @@
 
  🤳About Me :
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on PHP, VS.NET, MySql
 - 🌱 I’m currently learning Python,Bootstrap,Blockchain 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on PHP, MySQL
+- 🤔 I’m looking for help with Laravel,Bootstrap, Python
 - 💬 Ask me about PHP, MYSQL, JS, C++, MS.NET
 - 📫 How to reach me: chino10030@yahoo.com
 ---
@@ -34,6 +34,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="MYSQL" alt="MYSQL" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="NET" alt="NET" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="NET" alt="NET" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS3" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40" />&nbsp;
