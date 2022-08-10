@@ -30,6 +30,7 @@
 <div aling="left">
 <h3>🛠 Languages and Tools:</h3>
 <div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="DOK" alt="DOK" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="MYSQL" alt="MYSQL" width="40" height="40" />&nbsp;
@@ -47,6 +48,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="SSH" alt="SSH" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-plain.svg" title="PUT" alt="PUT" width="40" height="40" />&nbsp;
 <img src="https://www.linuxadictos.com/wp-content/uploads/mariadb.jpg" title="MAR" alt="MAR" width="65" height="40" />&nbsp;
+
+
 </div>
 </div>
 
